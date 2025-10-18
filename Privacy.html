@@ -3,75 +3,82 @@ Jatone Privacy Policy
 Effective Date: October 5, 2025
 
 Introduction
-Jatone is a messaging and social app that lets users share posts, messages, photos, videos, and voice notes with friends. We respect your privacy and are committed to protecting your personal information.
 
-1. Information We Collect
+Jatone is a messaging and social app that lets users share posts, messages, photos, videos, and voice notes with friends.
+We respect your privacy and are committed to protecting your personal information.
 
-We may collect the following information when you use Jatone:
+Information We Collect
+
+When you use Jatone, we may collect the following information with your consent:
 
 Camera & Microphone: Used to record photos, videos, and voice notes for posts or replies.
 
-Contacts: With your permission, to connect with friends using Jatone.
+Contacts: With your explicit permission, we access your contact list to help you find and connect with friends who are also using Jatone.
 
-Location: Optional; used to show nearby posts and improve local content discovery.
+Consent: You are asked before any contact data is accessed or uploaded.
+
+Storage: Contact data is securely transmitted and temporarily stored on our servers only to match existing users.
+
+Use: We do not sell, share, or permanently store your contact data. It is deleted automatically after matching.
+
+Location (optional): Used to show nearby posts and improve local content discovery.
 
 Audio: Recorded via voice notes or replies.
 
-Device Information: IP address, device type, operating system version.
+Device Information: Such as IP address, device type, and operating system version.
 
-Account Information: Name, email address, and other information you provide.
+Account Information: Name, email address, and any profile information you provide.
 
-2. How We Use Your Information
+How We Use Your Information
 
-We use the information we collect to provide, maintain, and improve Jatone services:
+We use the information collected to provide, maintain, and improve Jatone’s features:
 
 Camera & Microphone: Record photos, videos, and voice notes.
 
-Contacts: Help you find and connect with friends.
+Contacts: Help users discover and connect with friends.
 
-Location: Provide local content and nearby post suggestions.
+Location: Suggest local content and nearby posts.
 
 Audio: Enable voice note replies and audio messages.
 
-Device Information: Optimize app performance and security.
+Device Information: Improve performance, detect issues, and maintain security.
 
-3. Data Sharing
+Data Sharing and Storage
 
-Jatone does not sell your personal information.
+Jatone does not sell or rent your personal information.
 
-We may use trusted third-party services for analytics, cloud storage, and app functionality, but your data remains protected.
+Contact data is used only for friend discovery and is not shared with third parties.
 
-4. User Control
+We may use trusted service providers (e.g., analytics or cloud hosting), bound by confidentiality agreements, to support app functionality.
 
-You can manage permissions for camera, microphone, contacts, location, and audio in your device settings.
+User Control and Consent
 
-You can delete your account anytime by contacting: support@jatoneapp.com
+You can manage app permissions (camera, contacts, location, microphone) anytime in your device settings.
+
+You are asked to grant consent before we access or upload your contacts.
+
+You can delete your account and all associated data by contacting: support@jatoneapp.com
 .
 
-5. Security
+Security
 
-We implement reasonable security measures to protect your information.
+We use reasonable technical and organizational measures to protect your data from unauthorized access or disclosure.
+However, no system is completely secure, so we encourage responsible app use.
 
-No system is completely secure, so please use the app responsibly.
+Children’s Privacy
 
-6. Children’s Privacy
+Jatone is not intended for children under 13 years of age.
+We do not knowingly collect or store data from children under 13.
 
-Jatone is not intended for children under 13.
+Changes to This Privacy Policy
 
-We do not knowingly collect information from children under 13.
+We may update this Privacy Policy from time to time. Updates will be posted here with a new effective date.
 
-7. Changes to This Privacy Policy
+Contact Us
 
-We may update this Privacy Policy as the app evolves.
+If you have any questions about this Privacy Policy or your data, contact us at:
+📧 support@jatoneapp.com
 
-Check this page periodically for updates.
+📧 ndubumma@gmail.com
 
-8. Contact Us
-
-For questions about privacy or your data:
-Email: support@jatoneapp.com
-OR
-Email: ndubumma@gmail.com
-
-
-Jatone 2025
+© 2025 Jatone. All rights reserved.
